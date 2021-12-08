@@ -1,0 +1,100 @@
+%% Creator: Inkscape 1.0.1 (c497b03c, 2020-09-10), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'SyntacsTree-2.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{454.5bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.85973597)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{SyntacsTree-2.pdf}}%
+    \put(0.2970297,0.82013201){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\vee\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{SyntacsTree-2.pdf}}%
+    \put(0.4950495,0.68811881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\vee\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{SyntacsTree-2.pdf}}%
+    \put(0.0990099,0.68811881){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{SyntacsTree-2.pdf}}%
+    \put(0.0330033,0.55610561){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{SyntacsTree-2.pdf}}%
+    \put(0.1650165,0.55610561){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{SyntacsTree-2.pdf}}%
+    \put(0.3630363,0.42409241){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}k\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{SyntacsTree-2.pdf}}%
+    \put(0.2970297,0.55610561){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{SyntacsTree-2.pdf}}%
+    \put(0.2310231,0.42409241){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}y\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{SyntacsTree-2.pdf}}%
+    \put(0.69306931,0.55610561){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\vee\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{SyntacsTree-2.pdf}}%
+    \put(0.82508251,0.02805281){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}z\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{SyntacsTree-2.pdf}}%
+    \put(0.95709571,0.02805281){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}k\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{SyntacsTree-2.pdf}}%
+    \put(0.56105611,0.42409241){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{SyntacsTree-2.pdf}}%
+    \put(0.62706271,0.29207921){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{SyntacsTree-2.pdf}}%
+    \put(0.56105611,0.16006601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}z\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{SyntacsTree-2.pdf}}%
+    \put(0.69306931,0.16006601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}k\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{SyntacsTree-2.pdf}}%
+    \put(0.4950495,0.29207921){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{SyntacsTree-2.pdf}}%
+    \put(0.82508251,0.42409241){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{SyntacsTree-2.pdf}}%
+    \put(0.89108911,0.29207921){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\wedge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{SyntacsTree-2.pdf}}%
+    \put(0.82508251,0.16006601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\neg\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{SyntacsTree-2.pdf}}%
+    \put(0.95709571,0.16006601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\neg\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{SyntacsTree-2.pdf}}%
+    \put(0.75907591,0.29207921){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}x\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{SyntacsTree-2.pdf}}%
+  \end{picture}%
+\endgroup%
